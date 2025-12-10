@@ -1,0 +1,5 @@
+{
+  "name": "AI Size Fitter UA",
+  "description": "Smart clothing size recommender using Gemini to analyze photos and body parameters against a specific sizing chart.",
+  "requestFramePermissions": []
+}
